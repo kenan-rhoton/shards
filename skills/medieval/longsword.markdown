@@ -7,26 +7,26 @@
 
 ## Rules gained
 
-### Slash
+### Slash (Attack)
 
-- Requires: Longsword
+- Requires: Longsword, Both Hands
 - Keywords: Attack - Strength - Sharp - Range 3
 - Damage Wheel: Scar -> Scar -> Break
 
 You may use up to 2 Discipline Dice on the Attack in addition to any Strength Dice.
 
-### Parry
+### Parry (Defense)
 
-- Requires: Longsword
+- Requires: Longsword, Both Hands
 - Keywords: Defense - Strength - Range 2+
 - Protects from: Sharp - Blunt - Weak
 
 You may use up to 2 Discipline Dice on the Defense in addition to any Strength Dice.
 On a tie, you gain 1 Positioning Die.
 
-### Hilt Bash
+### Hilt Bash (Attack)
 
-- Requires: Longsword
+- Requires: Longsword, One Hand
 - Keywords: Attack - Strength - Blunt - Weak - Range 0
 - Damage Wheel: Stagger -> Stagger -> Stagger -> Break
 

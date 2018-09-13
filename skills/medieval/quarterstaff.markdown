@@ -25,11 +25,7 @@ You may use up to 1 Discipline Die on the Attack in addition to any Strength Dic
 You may use up to 1 Discipline Die on the Defense in addition to any Strength Dice.
 On a tie, you gain 1 Positioning Die.
 
-### Evade (Defense)
+### Evade (Enhancement)
 
-- Requires: Nothing
-- Keywords: Defense - Spirit - Range Any
-- Protects from: Any
-
-You may use up to 2 Discipline Die on the Defense in addition to any Spirit Dice.
+You may use up to 2 Discipline Die on the Defense in addition to any Spirit Dice when you Dodge.
 On a success, steal one additional Positioning Die.
